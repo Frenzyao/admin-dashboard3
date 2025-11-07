@@ -1,1 +1,6 @@
-# admin-dashboard3
+so after copying the repository 
+type the follwing commands
+1.run npm install on backend
+then run npx nodemon server.js
+2.run npm install on frontend 
+then run npm start
